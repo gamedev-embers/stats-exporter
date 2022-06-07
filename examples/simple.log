@@ -1,0 +1,30 @@
+{"ts": 1654627837163, "playerId": "f993d916-a5cb-4f9e-9b1a-2e3d8eeb6684", "type": "account", "subtype": "login", "args": "{\"first\": true}"}
+{"ts": 1654627837163, "playerId": "2a29d6f7-27cb-4f43-953e-96c602933e0e", "type": "account", "subtype": "login", "args": "{\"first\": true}"}
+{"ts": 1654627837163, "playerId": "c5572960-3175-4424-a283-1d96a7f65962", "type": "account", "subtype": "login", "args": "{\"first\": true}"}
+{"ts": 1654627837163, "playerId": "ba1f2699-ef26-4cf6-8963-7660654ad275", "type": "account", "subtype": "login", "args": "{\"first\": true}"}
+{"ts": 1654627837163, "playerId": "a15583aa-70e5-4014-9352-5883d268db14", "type": "account", "subtype": "login", "args": "{\"first\": true}"}
+{"ts": 1654627837163, "playerId": "d22a20f0-8d9a-492b-b9d7-3e73cc0c5f3f", "type": "account", "subtype": "login", "args": "{\"first\": true}"}
+{"ts": 1654627837163, "playerId": "fc4f662c-d913-40de-b4f3-0b6bc7a0a6f6", "type": "account", "subtype": "login", "args": "{\"first\": true}"}
+{"ts": 1654627837163, "playerId": "7f0c2bd8-4e96-4aed-be16-7f19d453041d", "type": "account", "subtype": "login", "args": "{\"first\": true}"}
+{"ts": 1654627837163, "playerId": "76fe7ad1-54c1-4f9a-8ac1-cd043802ce28", "type": "account", "subtype": "login", "args": "{\"first\": true}"}
+{"ts": 1654627837163, "playerId": "c681a3b5-de20-4819-a6c4-1a7e41b3bd14", "type": "account", "subtype": "login", "args": "{\"first\": true}"}
+{"ts": 1654627837163, "playerId": "ffc803fd-0dd8-477c-ad0b-899dfa247991", "type": "payment", "subtype": "normal", "args": "{\"amount\": 991}"}
+{"ts": 1654627837163, "playerId": "9c6275e1-5a28-4d58-b1f7-eec0e87dea2d", "type": "payment", "subtype": "normal", "args": "{\"amount\": 971}"}
+{"ts": 1654627837163, "playerId": "3efadb0a-1c52-49e4-b320-a647e272a6f8", "type": "payment", "subtype": "normal", "args": "{\"amount\": 714}"}
+{"ts": 1654627837163, "playerId": "2d1e978d-bfdc-4d1f-a0f2-dd7607063cb8", "type": "payment", "subtype": "normal", "args": "{\"amount\": 369}"}
+{"ts": 1654627837163, "playerId": "049490ef-9b73-414a-90cc-367175774cfe", "type": "payment", "subtype": "normal", "args": "{\"amount\": 123}"}
+{"ts": 1654627837163, "playerId": "086a4e58-53bd-47a0-8718-b110e2919ced", "type": "payment", "subtype": "normal", "args": "{\"amount\": 174}"}
+{"ts": 1654627837163, "playerId": "a46ecc92-d941-472c-9764-70a8613ebb72", "type": "payment", "subtype": "normal", "args": "{\"amount\": 483}"}
+{"ts": 1654627837163, "playerId": "aaf779b1-8a72-4dd7-b440-839f4942e4bd", "type": "payment", "subtype": "normal", "args": "{\"amount\": 814}"}
+{"ts": 1654627837163, "playerId": "e6b9ecad-0a00-409f-b445-b00b0df17e3a", "type": "payment", "subtype": "normal", "args": "{\"amount\": 37}"}
+{"ts": 1654627837163, "playerId": "5da4dd55-93c8-45bb-92a6-862c11eed56e", "type": "payment", "subtype": "normal", "args": "{\"amount\": 859}"}
+{"ts": 1654627837164, "playerId": "039a20b6-6594-4e36-b534-f77c470d2853", "type": "system", "subtype": "info", "args": "{\"onlines\": 4980, \"servers\": 4}"}
+{"ts": 1654627837164, "playerId": "a4fd29d5-f33a-45a4-89f8-8d19c3fe0ff6", "type": "system", "subtype": "info", "args": "{\"onlines\": 16192, \"servers\": 16}"}
+{"ts": 1654627837164, "playerId": "60394eb0-146e-4658-839c-115d326b347d", "type": "system", "subtype": "info", "args": "{\"onlines\": 10066, \"servers\": 10}"}
+{"ts": 1654627837164, "playerId": "a1021046-9fa4-4ee4-90f0-a5c364879bde", "type": "system", "subtype": "info", "args": "{\"onlines\": 14638, \"servers\": 14}"}
+{"ts": 1654627837164, "playerId": "10243af1-08b6-4642-8ec6-358ac46680a8", "type": "system", "subtype": "info", "args": "{\"onlines\": 8125, \"servers\": 8}"}
+{"ts": 1654627837164, "playerId": "c448b6ff-ee3d-496f-9079-01d9d660e453", "type": "system", "subtype": "info", "args": "{\"onlines\": 17612, \"servers\": 17}"}
+{"ts": 1654627837164, "playerId": "ee276f5a-89e5-4fc9-8caa-d9e3ccda2e76", "type": "system", "subtype": "info", "args": "{\"onlines\": 13238, \"servers\": 13}"}
+{"ts": 1654627837164, "playerId": "887ba53e-1d12-4c3f-85b2-07009a5a1b8c", "type": "system", "subtype": "info", "args": "{\"onlines\": 7255, \"servers\": 7}"}
+{"ts": 1654627837164, "playerId": "ca28a4b8-6826-477f-8a9d-b3468c9e0d67", "type": "system", "subtype": "info", "args": "{\"onlines\": 9850, \"servers\": 9}"}
+{"ts": 1654627837164, "playerId": "94bd273c-1eeb-4715-a700-31f5cbaf0e25", "type": "system", "subtype": "info", "args": "{\"onlines\": 9175, \"servers\": 9}"}
